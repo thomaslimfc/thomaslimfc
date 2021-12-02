@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomaslimfc
-- 👀 I’m interested in programming languages like Python
+- 👀 I’m interested in programming languages like HTML, CSS and Python
 - 🌱 I’m currently studying BCompSc (Hons) in Software Engineering [TARUC Penang Branch Campus]
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thomaslimfc@gmail.com
