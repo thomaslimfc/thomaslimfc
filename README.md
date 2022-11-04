@@ -5,7 +5,7 @@
 
 - 🌱 TARUMT University Student - **BCompSc (Hons) in Software Engineering**
 
-- 🛒 e-Entrepreneur (Shopee Malaysia) - **shopee.com.my/tct_penang**
+- 🛒 e-Entrepreneur (Shopee Malaysia: tct_penang) - **shopee.com.my/tct_penang**
 
 - 🎬 YouTube Content Creator - **youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA**
 
