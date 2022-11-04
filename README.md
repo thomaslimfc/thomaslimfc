@@ -5,11 +5,11 @@
 
 - 🌱 TARUMT University Student - **BCompSc (Hons) in Software Engineering**
 
-- 📫 How to reach me - [thomaslim.yt@gmail.com](thomaslim.yt@gmail.com)
-
 - 🛒 e-Entrepreneur (Shopee Malaysia) - **shopee.com.my/tct_penang**
 
 - 🎬 YouTube Content Creator - **youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA**
+
+- 📫 How to reach me - [thomaslim.yt@gmail.com](thomaslim.yt@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
