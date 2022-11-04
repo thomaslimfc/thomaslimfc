@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fang-chern-l-a58548217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fang-chern-l-a58548217" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fang-chern-l-a58548217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fang-chern-l-a58548217" height="30" width="40" /></a>
 <a href="https://instagram.com/__thomaslimfc__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__thomaslimfc__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/computer technology solutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="computer technology solutions" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="computer technology solutions" height="30" width="40" /></a>
 <a href="https://discord.gg/thomaslimfc#2597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thomaslimfc#2597" height="30" width="40" /></a>
 </p>
 
