@@ -5,11 +5,11 @@
 
 - 🌱 TARUMT University Student - **BCompSc (Hons) in Software Engineering**
 
-- 🛒 e-Entrepreneur - [**thomaslimfc.github.io/tct/about-us.html**](thomaslimfc.github.io/tct/about-us.html)
+- 🛒 e-Entrepreneur - **thomaslimfc.github.io/tct/about-us.html**
     
-- 🎬 YouTube Content Creator - [**youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA**](youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA)
+- 🎬 YouTube Content Creator - **youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA**
 
-- 📫 How to reach me - [thomaslim.yt@gmail.com](thomaslim.yt@gmail.com)
+- 📫 How to reach me - thomaslim.yt@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
