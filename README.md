@@ -6,9 +6,7 @@
 - 🌱 TARUMT University Student - **BCompSc (Hons) in Software Engineering**
 
 - 🛒 e-Entrepreneur - **thomaslimfc.github.io/tct/about-us.html**
--  Shopee Malaysia - **shopee.com.my/tct_penang**
--  Lazada Malaysia - **lazada.com.my/shop/tct-penang**
-        
+    
 - 🎬 YouTube Content Creator - **youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA**
 
 - 📫 How to reach me - [thomaslim.yt@gmail.com](thomaslim.yt@gmail.com)
