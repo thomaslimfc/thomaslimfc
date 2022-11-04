@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
 
-- 🌱 University Student **BCompSc (Hons) in Software Engineering - TARUMT Penang Branch Campus**
+- 🌱 TARUMT University Student - **BCompSc (Hons) in Software Engineering**
 
-- 📫 How to reach me [thomaslim.yt@gmail.com](thomaslim.yt@gmail.com)
+- 📫 How to reach me - [thomaslim.yt@gmail.com](thomaslim.yt@gmail.com)
 
-- 🛒 e-Entrepreneur **shopee.com.my/tct_penang - Shopee Malaysia**
+- 🛒 e-Entrepreneur (Shopee Malaysia) - **shopee.com.my/tct_penang**
 
-- 🎬 YouTube Content Creator **youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA**
+- 🎬 YouTube Content Creator - **youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
