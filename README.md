@@ -5,7 +5,7 @@
 
 - 🌱 TARUMT University Student - **BCompSc (Hons) in Software Engineering**
 
-- 🛒 e-Entrepreneur - **thomaslimfc.github.io/tct/about-us.html**
+- 🛒 e-Entrepreneur - [thomaslimfc.github.io/tct/about-us.html](thomaslimfc.github.io/tct/about-us.html)
     
 - 🎬 YouTube Content Creator - **youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA**
 
