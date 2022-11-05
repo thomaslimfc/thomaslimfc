@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Thomas (Fang-chern) Lim</h1>
+<h1 align="center">Hey, I'm Thomas Fang-chern Lim</h1>
 <h3 align="center">A passionate software engineer, web developer & graphic designer from Penang, Malaysia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
