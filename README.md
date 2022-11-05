@@ -5,9 +5,9 @@
 
 - 🌱 TARUMT University Student - **BCompSc (Hons) in Software Engineering**
 
-- 🛒 e-Entrepreneur - [TCT Thomas Cheapsoft Technology](**thomaslimfc.github.io/tct/about-us.html**)
+- 🛒 e-Entrepreneur - [TCT Thomas Cheapsoft Technology](https://thomaslimfc.github.io/tct/about-us.html)
     
-- 🎬 YouTube Content Creator - [CTS Computer Technology Solutions](youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA)
+- 🎬 YouTube Content Creator - [CTS Computer Technology Solutions](https://youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA)
 
 - 📫 How to reach me - thomaslim.yt@gmail.com
 
