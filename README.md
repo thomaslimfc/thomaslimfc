@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
 
-- 🌱 TARUMT University Student - **BCompSc (Hons) in Software Engineering**
+- 🌱 TARUMT University Student - **Bachelor of Software Engineering (Honours)**
 
 - 🛒 e-Entrepreneur - [TCT Thomas Cheapsoft Technology](https://thomaslimfc.github.io/tct/about-us.html)
     
