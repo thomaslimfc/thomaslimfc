@@ -14,8 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<p align="left"> 
-
+<p align="left">
     <a target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="40" height="40"/> </a> 
 
     <a target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTREadhYWxcLBoldO_5kFkZWJk_hceOMM1CxQ&s" alt="C++" width="40" height="40"/> </a> 
