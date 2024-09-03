@@ -37,15 +37,10 @@
     <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Apache NetBeans" width="40"/> </a> 
     <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Android Studio" idth="40"/> </a> 
     <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Microsoft Word" width="40"/> </a> 
-
     <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Microsoft Excel" width="40"/> </a> 
-
     <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Microsoft Powerpoint" width="40"/> </a>     
-
     <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Microsoft Access" width="40"/> </a>     
-
     <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Microsoft Visio" width="40"/> </a>     
-
     <a target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-2jaS8eIgeSM7817Mt3UJ7oGZBzxwJ3MvQA&s" alt="Google Web Designer" width="40"/> </a>
 </p>
 
