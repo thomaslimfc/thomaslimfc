@@ -14,16 +14,61 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<p align="left"> 
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Java" width="40" height="40"/> </a> 
 
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="C++" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Python" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Microsoft SQL Server" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="SQL" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="XML" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Kotlin" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="HTML5" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="CSS" width="40" height="40"/> </a>     
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="JavaScript" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="C#" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Windows" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Ubuntu" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Adobe Photoshop" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Wondershare Filmora" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Microsoft Visual Studio 2022" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Microsoft Visual Studio Code" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="JetBrains IntelliJ IDEA" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="JetBrains PyCharm" width="40" height="40"/> </a> 
     
-<a href="https://linkedin.com/in/fang-chern-l-a58548217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fang-chern-l-a58548217" height="30" width="40" /></a>
-<a href="https://instagram.com/__thomaslimfc__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__thomaslimfc__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="computer technology solutions" height="30" width="40" /></a>
-<a href="https://discord.gg/thomaslimfc#2597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thomaslimfc#2597" height="30" width="40" /></a>
-</p>
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Apache NetBeans" width="40" height="40"/> </a> 
 
-<h3 align="left">Languages and Tools:</h3>
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Android Studio" idth="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Microsoft Word" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Microsoft Excel" width="40" height="40"/> </a> 
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Microsoft Powerpoint" width="40" height="40"/> </a>     
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Microsoft Access" width="40" height="40"/> </a>     
+
+    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Microsoft Visio" width="40" height="40"/> </a>     
+
+    <a target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-2jaS8eIgeSM7817Mt3UJ7oGZBzxwJ3MvQA&s" alt="Google Web Designer" width="40" height="40"/> </a>     
+    
 <p align="left"> 
     
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
