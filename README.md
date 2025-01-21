@@ -15,7 +15,11 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
+
+<br>
+
+<h3 align="left">I've tried: </h3>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/python.png" alt="Python" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/java.png" alt="Java" width="40"/></a>
@@ -42,5 +46,3 @@
 </p>
 
 <br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
