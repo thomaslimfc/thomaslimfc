@@ -19,7 +19,7 @@
 
 <br>
 
-<h3 align="left">I've tried: </h3>
+<h3 align="left">I've tried before: </h3>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/python.png" alt="Python" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/java.png" alt="Java" width="40"/></a>
