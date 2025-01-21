@@ -13,8 +13,9 @@
 
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/limfangchern)
 
-<h3 align="left">Connect with me:</h3>
+<br>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/python.png" alt="Python" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/java.png" alt="Java" width="40"/></a>
