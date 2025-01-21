@@ -1,15 +1,15 @@
 <h1 align="center">Hey, I'm Thomas Fang-chern Lim</h1>
-<h3 align="center">A passionate software developer, web developer, mobile application developer & graphic designer from Penang, Malaysia</h3>
+<h3 align="center">A passionate software developer from Penang, Malaysia.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
 
 - 🌱 TARUMT University Student - **Bachelor of Software Engineering (Honours)**
 
-- 🛒 e-Entrepreneur - [TCT Thomas Comonics Technology](https://thomaslimfc.github.io/tct/about-us.html)
+- 🛒 e-Entrepreneur - [TCT Thomas Comonics Technology](https://thomascomonicstechnology.github.io/tct/)
     
 - 🎬 YouTube Content Creator - [CTS Computer Technology Solutions](https://youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA)
 
-- 📫 How to reach me - thomaslim.yt@gmail.com
+- 📫 How to reach me - https://www.linkedin.com/in/limfangchern/
 
 <h3 align="left">Connect with me:</h3>
 
@@ -38,6 +38,6 @@
     <a target="_blank" rel="noreferrer"><img src="images/wondershareFilmora.png" alt="Wondershare Filmora" width="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomaslimfc&" alt="thomaslimfc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
