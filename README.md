@@ -20,7 +20,7 @@
     <a target="_blank" rel="noreferrer"><img src="images/apacheNetbeans.png" alt="Apache NetBeans" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/arduinoIDE.png" alt="Arduino IDE" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/bootstrap.png" alt="Bootstrap" width="40"/></a>
-    <a target="_blank" rel="noreferrer"><img src="images/c#.png" alt="C#" width="40"/></a>
+    <a target="_blank" rel="noreferrer"><img src="images/cSharp.png" alt="C#" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/c++.png" alt="C++" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/github.png" alt="GitHub" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/java.png" alt="Java" width="40"/></a>
