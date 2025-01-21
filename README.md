@@ -14,33 +14,97 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="40"/> </a>
-    <a target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTREadhYWxcLBoldO_5kFkZWJk_hceOMM1CxQ&s" alt="C++" width="40"/> </a>
-    <a target="_blank" rel="noreferrer"> <img src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png" alt="Python" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" alt="Microsoft SQL Server" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ardino-1.svg" alt="SQL" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="XML" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/aduino-1.svg" alt="Kotlin" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ardino-1.svg" alt="HTML5" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/karduino-1.svg" alt="CSS" width="40"/> </a>     
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logosk/arduino-1.svg" alt="JavaScript" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/rduino-1.svg" alt="C#" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/loos/arduino-1.svg" alt="Windows" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/lgos/arduino-1.svg" alt="Ubuntu" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/ogos/arduino-1.svg" alt="Adobe Photoshop" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.cm/logos/arduino-1.svg" alt="Wondershare Filmora" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogocom/logos/arduino-1.svg" alt="Microsoft Visual Studio 2022" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogocom/logos/arduino-1.svg" alt="Microsoft Visual Studio Code" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.om/logos/arduino-1.svg" alt="JetBrains IntelliJ IDEA" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.om/logos/arduino-1.svg" alt="JetBrains PyCharm" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.om/logos/arduino-1.svg" alt="Apache NetBeans" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.cm/logos/arduino-1.svg" alt="Android Studio" idth="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectologo.co/logos/arduino-1.svg" alt="Microsoft Word" width="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorogo.com/logos/arduino-1.svg" alt="Microsoft Excel" width="40"/> </a>
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorogo.com/logos/arduino-1.svg" alt="Microsoft Powerpoint" width="40"/> </a>     
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlgo.com/logos/arduino-1.svg" alt="Microsoft Access" width="40"/> </a>    
-    <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlgo.com/logos/arduino-1.svg" alt="Microsoft Visio" width="40"/> </a>     
-    <a target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-2jaS8eIgeSM7817Mt3UJ7oGZBzxwJ3MvQA&s" alt="Google Web Designer" width="40"/></a>width="40"/></a>
+# Tools and Technologies
+
+Here are the tools and technologies represented with their respective icons:
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/adobeIllustrator.png" alt="Adobe Illustrator" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/adobePhotoshop.png" alt="Adobe Photoshop" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/androidStudio.png" alt="Android Studio" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/apacheNetbeans.png" alt="Apache NetBeans" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/arduinoIDE.png" alt="Arduino IDE" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/bootstrap.png" alt="Bootstrap" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/c#.png" alt="C#" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/c++.png" alt="C++" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/github.png" alt="GitHub" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/java.png" alt="Java" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/javascript.png" alt="JavaScript" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/jetbrainsClion.png" alt="JetBrains CLion" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/jetbrainsIntellijIdea.png" alt="JetBrains IntelliJ IDEA" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/jetbrainsPycharm.png" alt="JetBrains PyCharm" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/linux.png" alt="Linux" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/microsoftOffice.png" alt="Microsoft Office" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/python.png" alt="Python" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/sql.png" alt="SQL" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/visualStudio2022.png" alt="Visual Studio 2022" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/vsCode.png" alt="Visual Studio Code" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/windows.png" alt="Windows" width="40"/> 
+</a>
+
+<a target="_blank" rel="noreferrer"> 
+    <img src="images/wondershareFilmora.png" alt="Wondershare Filmora" width="40"/> 
+</a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
