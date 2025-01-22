@@ -1,8 +1,7 @@
 <h1 align="center">Hey, I'm Thomas Fang-chern Lim</h1>
 <h3 align="center">A passionate software developer from Penang, Malaysia.</h3>
 
-<br>
-- 🌱 TARUMT University Student - **Bachelor of Software Engineering (Honours)**
+<br>- 🌱 TARUMT University Student - **Bachelor of Software Engineering (Honours)**
 
 - 🛒 e-Entrepreneur - [TCT Thomas Comonics Technology](https://thomascomonicstechnology.github.io/tct/)
     
@@ -13,8 +12,6 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
-
-<br>
 <h3 align="left">I've tried before: </h3>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/python.png" alt="Python" width="40"/></a>
