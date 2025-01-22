@@ -2,9 +2,6 @@
 <h3 align="center">A passionate software developer from Penang, Malaysia.</h3>
 
 <br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
-
 - 🌱 TARUMT University Student - **Bachelor of Software Engineering (Honours)**
 
 - 🛒 e-Entrepreneur - [TCT Thomas Comonics Technology](https://thomascomonicstechnology.github.io/tct/)
@@ -45,4 +42,6 @@
     <a target="_blank" rel="noreferrer"><img src="images/wondershareFilmora.png" alt="Wondershare Filmora" width="40"/></a>
 </p>
 
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
 <br>
