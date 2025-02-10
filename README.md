@@ -14,11 +14,11 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
-<h3 align="left">4 Types of Things I have played aorund / coded / utilised previously 😎</h3>
+<h3 align="left">4 Types of Things I have played around / coded / utilised previously 😎</h3>
 <h4 align="left">1) Programming Languages: </h4>
 <p align="left">
-    <a target="_blank" rel="noreferrer"><img src="images/java.png" alt="Java" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/python.png" alt="Python" width="40"/></a>
+    <a target="_blank" rel="noreferrer"><img src="images/java.png" alt="Java" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/cSharp.png" alt="C#" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/c++.png" alt="C++" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/javascript.png" alt="JavaScript" width="40"/></a>
@@ -40,14 +40,9 @@
     <a target="_blank" rel="noreferrer"><img src="images/androidStudio.png" alt="Android Studio" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/arduinoIDE.png" alt="Arduino IDE" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/figma.png" alt="Figma" width="40"/></a>
-    <a target="_blank" rel="noreferrer"><img src="images/windows.png" alt="Windows" width="40"/></a>
-    <a target="_blank" rel="noreferrer"><img src="images/linux.png" alt="Linux" width="40"/></a>
-    <a target="_blank" rel="noreferrer"><img src="images/kaliLinux.png" alt="Kali Linux" width="40"/></a>
-    <a target="_blank" rel="noreferrer"><img src="images/parrotSecurity.png" alt="Parrot Security" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/github.png" alt="GitHub" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/firebase.png" alt="FireBase" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/aspNet.png" alt="ASP.Net" width="40"/></a>
-    <a target="_blank" rel="noreferrer"><img src="images/oracleVirtualBox.png" alt="Oracle VirtualBox" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/github.png" alt="GitHub" width="40"/></a>
 </p>
 
