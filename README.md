@@ -21,8 +21,8 @@
     <a target="_blank" rel="noreferrer"><img src="images/cSharp.png" alt="C#" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/c++.png" alt="C++" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/javascript.png" alt="JavaScript" width="40"/></a>
-    <a target="_blank" rel="noreferrer"><img src="images/php.png" alt="PHP" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/kotlin.png" alt="Kotlin" width="40"/></a>
+    <a target="_blank" rel="noreferrer"><img src="images/php.png" alt="PHP" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/sql.png" alt="SQL" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/bootstrap.png" alt="Bootstrap" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/xml.png" alt="XML" width="40"/></a>
@@ -43,15 +43,10 @@
     <a target="_blank" rel="noreferrer"><img src="images/linux.png" alt="Linux" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/kaliLinux.png" alt="Kali Linux" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/parrotSecurity.png" alt="Parrot Security" width="40"/></a>
-
     <a target="_blank" rel="noreferrer"><img src="images/github.png" alt="GitHub" width="40"/></a>
-
     <a target="_blank" rel="noreferrer"><img src="images/firebase.png" alt="FireBase" width="40"/></a>
-
     <a target="_blank" rel="noreferrer"><img src="images/aspNet.png" alt="ASP.Net" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/oracleVirtualBox.png" alt="Oracle VirtualBox" width="40"/></a>
-
-
     <a target="_blank" rel="noreferrer"><img src="images/github.png" alt="GitHub" width="40"/></a>
 
 </p>
