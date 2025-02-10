@@ -25,7 +25,7 @@
     <a target="_blank" rel="noreferrer"><img src="images/bootstrap.png" alt="Bootstrap" width="40"/></a>
 </p>
 
-<h3 align="left">Software I've tried before: </h3>
+<h3 align="left">IT Software I've tried before: </h3>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/vsCode.png" alt="Visual Studio Code" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/visualStudio2022.png" alt="Visual Studio 2022" width="40"/></a>
@@ -38,6 +38,10 @@
     <a target="_blank" rel="noreferrer"><img src="images/windows.png" alt="Windows" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/linux.png" alt="Linux" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/github.png" alt="GitHub" width="40"/></a>
+</p>
+
+<h3 align="left">Other Software: </h3>
+<p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/microsoftOffice.png" alt="Microsoft Office" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/adobePhotoshop.png" alt="Adobe Photoshop" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/adobeIllustrator.png" alt="Adobe Illustrator" width="40"/></a>
