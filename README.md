@@ -14,7 +14,7 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
-<h3 align="left">Things I have coded / utilised / played around </h3>
+<h3 align="left">4 Types of Things I have coded / utilised / played around </h3>
 <h3 align="left">1) Programming Language: </h3>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/java.png" alt="Java" width="40"/></a>
@@ -29,7 +29,7 @@
     <a target="_blank" rel="noreferrer"><img src="images/xml.png" alt="XML" width="40"/></a>
 </p>
 
-<h3 align="left">2) IT Software: </h3>
+<h3 align="left">2) IDE Software / IT Services: </h3>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/vsCode.png" alt="Visual Studio Code" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/visualStudio2022.png" alt="Visual Studio 2022" width="40"/></a>
