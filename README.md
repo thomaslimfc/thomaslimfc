@@ -23,6 +23,7 @@
     <a target="_blank" rel="noreferrer"><img src="images/c++.png" alt="C++" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/javascript.png" alt="JavaScript" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/kotlin.png" alt="Kotlin" width="40"/></a>
+    <a target="_blank" rel="noreferrer"><img src="images/dart.png" alt="Dart" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/php.png" alt="PHP" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/sql.png" alt="SQL" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/bootstrap.png" alt="Bootstrap" width="40"/></a>
