@@ -29,7 +29,7 @@
     <a target="_blank" rel="noreferrer"><img src="images/xml.png" alt="XML" width="40"/></a>
 </p>
 
-<h3 align="left">2) IDE Software / IT Services: </h3>
+<h4 align="left">2) IDE Software / IT Services: </h4>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/vsCode.png" alt="Visual Studio Code" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/visualStudio2022.png" alt="Visual Studio 2022" width="40"/></a>
@@ -51,7 +51,7 @@
     <a target="_blank" rel="noreferrer"><img src="images/github.png" alt="GitHub" width="40"/></a>
 </p>
 
-<h3 align="left">3) Operating System (OS): </h3>
+<h4 align="left">3) Operating System (OS): </h4>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/windows.png" alt="Windows" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/linux.png" alt="Linux" width="40"/></a>
@@ -60,7 +60,7 @@
     <a target="_blank" rel="noreferrer"><img src="images/oracleVirtualBox.png" alt="Oracle VirtualBox" width="40"/></a>
 </p>
 
-<h3 align="left">4) Other Software: </h3>
+<h4 align="left">4) Other Software: </h4>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/microsoftOffice.png" alt="Microsoft Office" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/adobePhotoshop.png" alt="Adobe Photoshop" width="40"/></a>
