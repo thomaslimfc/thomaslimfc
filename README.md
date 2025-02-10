@@ -14,7 +14,7 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
-<h3 align="left">I've tried before: </h3>
+<h3 align="left">Programming Language I've tried before: </h3>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/python.png" alt="Python" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/java.png" alt="Java" width="40"/></a>
@@ -23,6 +23,11 @@
     <a target="_blank" rel="noreferrer"><img src="images/javascript.png" alt="JavaScript" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/sql.png" alt="SQL" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/bootstrap.png" alt="Bootstrap" width="40"/></a>
+</p>
+
+<br>
+<h3 align="left">Software I've tried before: </h3>
+<p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/vsCode.png" alt="Visual Studio Code" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/visualStudio2022.png" alt="Visual Studio 2022" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/jetbrainsPycharm.png" alt="JetBrains PyCharm" width="40"/></a>
