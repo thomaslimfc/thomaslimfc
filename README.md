@@ -48,7 +48,15 @@
     <a target="_blank" rel="noreferrer"><img src="images/aspNet.png" alt="ASP.Net" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/oracleVirtualBox.png" alt="Oracle VirtualBox" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/github.png" alt="GitHub" width="40"/></a>
+</p>
 
+<h3 align="left">Operating System (OS): </h3>
+<p align="left">
+    <a target="_blank" rel="noreferrer"><img src="images/windows.png" alt="Windows" width="40"/></a>
+    <a target="_blank" rel="noreferrer"><img src="images/linux.png" alt="Linux" width="40"/></a>
+    <a target="_blank" rel="noreferrer"><img src="images/kaliLinux.png" alt="Kali Linux" width="40"/></a>
+    <a target="_blank" rel="noreferrer"><img src="images/parrotSecurity.png" alt="Parrot Security" width="40"/></a>
+    <a target="_blank" rel="noreferrer"><img src="images/oracleVirtualBox.png" alt="Oracle VirtualBox" width="40"/></a>
 </p>
 
 <h3 align="left">Other Software: </h3>
