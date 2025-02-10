@@ -57,7 +57,7 @@
     <a target="_blank" rel="noreferrer"><img src="images/oracleVirtualBox.png" alt="Oracle VirtualBox" width="40"/></a>
 </p>
 
-<h4 align="left">4) Other Software: </h4>
+<h4 align="left">4) Others: </h4>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/microsoftOffice.png" alt="Microsoft Office" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/adobePhotoshop.png" alt="Adobe Photoshop" width="40"/></a>
