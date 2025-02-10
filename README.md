@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
 <h3 align="left">4 Types of Things I have coded / utilised / played around </h3>
-<h3 align="left">1) Programming Language: </h3>
+<h4 align="left">1) Programming Languages: </h4>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/java.png" alt="Java" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/python.png" alt="Python" width="40"/></a>
