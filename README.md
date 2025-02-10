@@ -24,7 +24,7 @@
     <a target="_blank" rel="noreferrer"><img src="images/sql.png" alt="SQL" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/bootstrap.png" alt="Bootstrap" width="40"/></a>
 </p>
-<br>
+
 <h3 align="left">Software I've tried before: </h3>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/vsCode.png" alt="Visual Studio Code" width="40"/></a>
