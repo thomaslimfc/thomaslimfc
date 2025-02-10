@@ -39,9 +39,9 @@
     <a target="_blank" rel="noreferrer"><img src="images/apacheNetbeans.png" alt="Apache NetBeans" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/androidStudio.png" alt="Android Studio" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/arduinoIDE.png" alt="Arduino IDE" width="40"/></a>
-    <a target="_blank" rel="noreferrer"><img src="images/figma.png" alt="Figma" width="40"/></a>
-    <a target="_blank" rel="noreferrer"><img src="images/github.png" alt="GitHub" width="40"/></a>
+    <a target="_blank" rel="noreferrer"><img src="images/flutter.png" alt="Flutter" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/firebase.png" alt="FireBase" width="40"/></a>
+    <a target="_blank" rel="noreferrer"><img src="images/figma.png" alt="Figma" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/aspNet.png" alt="ASP.Net" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/github.png" alt="GitHub" width="40"/></a>
 </p>
