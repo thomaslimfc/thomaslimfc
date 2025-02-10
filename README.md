@@ -1,6 +1,8 @@
 <h1 align="center">Hey, I'm Thomas Fang-chern Lim</h1>
 <h3 align="center">A passionate software developer from Penang, Malaysia.</h3>
 <br>
+<h3 align="center">A future software architech.</h3>
+<br>
 
 - 🌱 TARUMT University Student - **Bachelor of Software Engineering (Honours)**
 
