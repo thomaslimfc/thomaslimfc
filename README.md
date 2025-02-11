@@ -53,7 +53,7 @@
     <a target="_blank" rel="noreferrer"><img src="images/windows.png" alt="Windows" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/linux.png" alt="Linux" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/kaliLinux.png" alt="Kali Linux" width="40"/></a>
-    <a target="_blank" rel="noreferrer"><img src="images/parrotSecurity.png" alt="Parrot Security" width="40"/></a>
+<!--     <a target="_blank" rel="noreferrer"><img src="images/parrotSecurity.png" alt="Parrot Security" width="40"/></a> -->
     <a target="_blank" rel="noreferrer"><img src="images/oracleVirtualBox.png" alt="Oracle VirtualBox" width="40"/></a>
 </p>
 
@@ -69,3 +69,42 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
 <br>
+
+<h3 align="left">Gaming Laptop Specification<h3>
+
+<h4 align="left">1) CPU: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz</h4>
+<p align="left">
+    <a target="_blank" rel="noreferrer"><img src="images/intel.png" alt="Intel" width="40"/></a>
+</p>
+
+<h4 align="left">2) GPU: Nvidia GeForce RTX 3050 Laptop GPU </h4>
+<p align="left">
+    <a target="_blank" rel="noreferrer"><img src="images/nvidia.png" alt="Nvidia" width="40"/></a>
+</p>
+
+<h4 align="left">3) RAM: Kingston Fury Impact DDR4 8GB x2pcs</h4>
+<p align="left">
+    <a target="_blank" rel="noreferrer"><img src="images/kingstonFury.png" alt="Kingston Fury" width="40"/></a>
+</p>
+
+# 🎮 Gaming Laptop Specification
+
+## 🖥️ CPU
+**11th Gen Intel® Core™ i5-11400H @ 2.70GHz**  
+![Intel](images/intel.png)
+
+## 🎮 GPU
+**NVIDIA GeForce RTX 3050 Laptop GPU**  
+![Nvidia](images/nvidia.png)
+
+## 🛠️ RAM
+**Kingston Fury Impact DDR4 8GB x2**  
+![Kingston Fury](images/kingstonFury.png)
+
+---
+### 🔗 Additional Information
+- **Operating System:** (Specify your OS, e.g., Windows 11)
+- **Storage:** (Specify SSD/HDD details)
+- **Display:** (Screen size, refresh rate, resolution)
+
+
