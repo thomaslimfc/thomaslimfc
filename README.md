@@ -14,7 +14,7 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
-<h3 align="left">4 Major Types of Things I have played around / coded / utilised previously 😎</h3>
+<h3 align="left">4 Major Categories of Technologies I've Explored, Coded, or Utilized 😎</h3>
 
 <h4 align="left">1) Programming Languages: </h4>
 <p align="left">
@@ -74,15 +74,15 @@
 
 ## 🖥️ CPU
 **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**  
-![Intel](images/intel.png)
+<img src="images/intel.png" alt="Intel" width="68px">
 
 ## 🎮 GPU
 **NVIDIA GeForce RTX 3050 Laptop GPU**  
-![Nvidia](images/nvidia.png)
+<img src="images/nvidia.png" alt="Nvidia" width="68px">
 
 ## 🛠️ RAM
 **Kingston Fury Impact DDR4 8GB x2**  
-![Kingston Fury](images/kingstonFury.png)
+<img src="images/kingstonFury.png" alt="Kingston Fury" width="68px">
 
 ---
 ### 🔗 Additional Information
