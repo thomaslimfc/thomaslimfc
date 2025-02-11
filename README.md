@@ -12,6 +12,7 @@
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/limfangchern)
 
 <br>
+
 ---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
 <h3 align="left">4 Major Categories of Technologies I've Explored, Coded, or Utilized 😎</h3>
@@ -69,6 +70,7 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
 <br>
+
 ---
 # 🎮 My Asus TUF Gaming F15 Gaming Laptop Specifications
 
