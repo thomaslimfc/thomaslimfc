@@ -76,16 +76,19 @@
 ## 🖥️ CPU - Central Processing Unit
 **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**  
 <img src="images/intel.png" alt="Intel" width="100px">
+<img src="images/18x50px.png" alt="" width="100px">
 <img src="images/intelCoreI5.png" alt="Core i5" width="100px">
 
 ## 🎮 GPU - Graphic Processing Unit
 **NVIDIA GeForce RTX 3050 Laptop GPU**  
 <img src="images/nvidia.png" alt="Nvidia" width="100px">
+<img src="images/18x50px.png" alt="" width="100px">
 <img src="images/nvidiaGeForceRtx.png" alt="GeForce RTX" width="100px">
 
 ## 🛠️ RAM - Random Access Memory
 **Kingston Fury Impact DDR4 8GB x2**  
 <img src="images/kingston.png" alt="Kingston" width="100px">
+<img src="images/18x50px.png" alt="" width="100px">
 <img src="images/kingstonFury.png" alt="Kingston Fury" width="100px">
 
 ---
