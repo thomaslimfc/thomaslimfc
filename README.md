@@ -70,9 +70,8 @@
 <br>
 
 ---
-<br>
-
 # 🎮 My Asus TUF Gaming F15 Gaming Laptop Specifications
+<br>
 
 ## 🖥️ CPU - Central Processing Unit
 **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**  
