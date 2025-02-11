@@ -71,11 +71,9 @@
 <br>
 
 # 🎮 Gaming Laptop Specification
-
 ## 🖥️ CPU
 **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**  
 ![Intel](images/intel.png)
-
 ## 🎮 GPU
 **NVIDIA GeForce RTX 3050 Laptop GPU**  
 ![Nvidia](images/nvidia.png)
