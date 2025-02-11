@@ -14,6 +14,8 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
+
+---
 <h3 align="left">4 Major Categories of Technologies I've Explored, Coded, or Utilized 😎</h3>
 
 <h4 align="left">1) Programming Languages: </h4>
@@ -65,12 +67,11 @@
     <a target="_blank" rel="noreferrer"><img src="images/wondershareFilmora.png" alt="Wondershare Filmora" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/googleWebDesigner.png" alt="Google Web Designer" width="40"/></a>
 </p>
-
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
 <br>
 
+---
 # 🎮 My Asus TUF Gaming F15 Gaming Laptop Specifications
+<br>
 
 ## 🖥️ CPU - Central Processing Unit
 **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**  
@@ -93,4 +94,7 @@
 - **Display:** Asus Laptop Screen 15.6" 144Hz (1920x1080)
 - **Monitor:** HP M24D FHD Monitor 23.8" 75Hz (1920x1080)
 
-
+---
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
+<br>
