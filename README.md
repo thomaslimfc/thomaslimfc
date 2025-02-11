@@ -95,5 +95,6 @@
 - **Monitor:** HP M24D FHD Monitor 23.8" 75Hz (1920x1080)
 
 ---
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
 <br>
