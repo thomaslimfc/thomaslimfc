@@ -70,7 +70,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
 <br>
 
-# 🎮 My Asus TUF Gaming F15 Gaming Laptop
+# 🎮 My Asus TUF Gaming F15 Gaming Laptop Specifications
 
 ## 🖥️ CPU
 **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**  
