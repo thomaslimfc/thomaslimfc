@@ -87,5 +87,24 @@
     <a target="_blank" rel="noreferrer"><img src="images/kingstonFury.png" alt="Kingston Fury" width="40"/></a>
 </p>
 
+# 🎮 Gaming Laptop Specification
+
+## 🖥️ CPU
+**11th Gen Intel® Core™ i5-11400H @ 2.70GHz**  
+![Intel](images/intel.png)
+
+## 🎮 GPU
+**NVIDIA GeForce RTX 3050 Laptop GPU**  
+![Nvidia](images/nvidia.png)
+
+## 🛠️ RAM
+**Kingston Fury Impact DDR4 8GB x2**  
+![Kingston Fury](images/kingstonFury.png)
+
+---
+### 🔗 Additional Information
+- **Operating System:** (Specify your OS, e.g., Windows 11)
+- **Storage:** (Specify SSD/HDD details)
+- **Display:** (Screen size, refresh rate, resolution)
 
 
