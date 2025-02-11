@@ -72,22 +72,24 @@
 
 # 🎮 My Asus TUF Gaming F15 Gaming Laptop Specifications
 
-## 🖥️ CPU
+## 🖥️ CPU (Central Processing Unit)
 **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**  
 <img src="images/intel.png" alt="Intel" width="100px">
 
-## 🎮 GPU
+## 🎮 GPU (Graphic Processing Unit)
 **NVIDIA GeForce RTX 3050 Laptop GPU**  
 <img src="images/nvidia.png" alt="Nvidia" width="100px">
 
-## 🛠️ RAM
+## 🛠️ RAM (Random Access Memory)
 **Kingston Fury Impact DDR4 8GB x2**  
 <img src="images/kingstonFury.png" alt="Kingston Fury" width="100px">
 
 ---
 ### 🔗 Additional Information
 - **Operating System:** Windows 11
-- **Storage:** Intel NVMe SSDPEKNU512GZ SSD 500GB + Kingston NV2 M.2 2280 PCIe NVMe Gen4 SNV251000G SSD 1TB
+- **Storage:** Intel NVMe SSDPEKNU512GZ SSD 500GB
+- **Secondary Storage:** Kingston NV2 M.2 2280 PCIe NVMe Gen4 SNV251000G SSD 1TB
+- **Network Card:** MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
 - **Display:** Asus Laptop Screen 15.6" 144Hz (1920x1080)
 - **Monitor:** HP M24D FHD Monitor 23.8" 75Hz (1920x1080)
 
