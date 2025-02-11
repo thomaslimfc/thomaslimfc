@@ -74,15 +74,15 @@
 
 ## 🖥️ CPU
 **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**  
-<img src="images/intel.png" alt="Intel" width="68px">
+<img src="images/intel.png" alt="Intel" width="100px">
 
 ## 🎮 GPU
 **NVIDIA GeForce RTX 3050 Laptop GPU**  
-<img src="images/nvidia.png" alt="Nvidia" width="68px">
+<img src="images/nvidia.png" alt="Nvidia" width="100px">
 
 ## 🛠️ RAM
 **Kingston Fury Impact DDR4 8GB x2**  
-<img src="images/kingstonFury.png" alt="Kingston Fury" width="68px">
+<img src="images/kingstonFury.png" alt="Kingston Fury" width="100px">
 
 ---
 ### 🔗 Additional Information
