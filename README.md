@@ -71,6 +71,7 @@
 
 ---
 <br>
+
 # 🎮 My Asus TUF Gaming F15 Gaming Laptop Specifications
 
 ## 🖥️ CPU - Central Processing Unit
