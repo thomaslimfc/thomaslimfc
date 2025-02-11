@@ -66,12 +66,14 @@
     <a target="_blank" rel="noreferrer"><img src="images/wondershareFilmora.png" alt="Wondershare Filmora" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/googleWebDesigner.png" alt="Google Web Designer" width="40"/></a>
 </p>
----
 <br>
+
+---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
 <br>
 
 ---
+<br>
 # 🎮 My Asus TUF Gaming F15 Gaming Laptop Specifications
 
 ## 🖥️ CPU - Central Processing Unit
