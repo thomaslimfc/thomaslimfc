@@ -70,10 +70,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
 <br>
 
-# 🎮 Gaming Laptop Specification
+# 🎮 My Asus TUF Gaming F15 Gaming Laptop
+
 ## 🖥️ CPU
 **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**  
 ![Intel](images/intel.png)
+
 ## 🎮 GPU
 **NVIDIA GeForce RTX 3050 Laptop GPU**  
 ![Nvidia](images/nvidia.png)
@@ -84,8 +86,8 @@
 
 ---
 ### 🔗 Additional Information
-- **Operating System:** (Specify your OS, e.g., Windows 11)
-- **Storage:** (Specify SSD/HDD details)
-- **Display:** (Screen size, refresh rate, resolution)
+- **Operating System:** (Windows 11)
+- **Storage:** (Kingston NV2 M.2 2280 PCIe NVMe Gen4 SSD 1TB)
+- **Display:** (15.6" 144Hz 1920*1080)
 
 
