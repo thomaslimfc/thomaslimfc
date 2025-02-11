@@ -72,15 +72,15 @@
 
 # 🎮 My Asus TUF Gaming F15 Gaming Laptop Specifications
 
-## 🖥️ CPU (Central Processing Unit)
+## 🖥️ CPU - Central Processing Unit
 **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**  
 <img src="images/intel.png" alt="Intel" width="100px">
 
-## 🎮 GPU (Graphic Processing Unit)
+## 🎮 GPU - Graphic Processing Unit
 **NVIDIA GeForce RTX 3050 Laptop GPU**  
 <img src="images/nvidia.png" alt="Nvidia" width="100px">
 
-## 🛠️ RAM (Random Access Memory)
+## 🛠️ RAM - Random Access Memory
 **Kingston Fury Impact DDR4 8GB x2**  
 <img src="images/kingstonFury.png" alt="Kingston Fury" width="100px">
 
