@@ -86,9 +86,9 @@
 
 ---
 ### 🔗 Additional Information
-- **Operating System:** (Windows 11)
-- **Storage:** (Intel NVMe SSDPEKNU512GZ SSD 500GB + Kingston NV2 M.2 2280 PCIe NVMe Gen4 SNV251000G SSD 1TB)
-- **Display:** (Asus Laptop Screen 15.6" 144Hz (1920*1080))
-- **Monitor:** (HP M24D FHD Monitor 23.8" 75Hz (1920x1080))
+- **Operating System:** Windows 11
+- **Storage:** Intel NVMe SSDPEKNU512GZ SSD 500GB + Kingston NV2 M.2 2280 PCIe NVMe Gen4 SNV251000G SSD 1TB
+- **Display:** Asus Laptop Screen 15.6" 144Hz (1920x1080)
+- **Monitor:** HP M24D FHD Monitor 23.8" 75Hz (1920x1080)
 
 
