@@ -13,8 +13,9 @@
 
 <br>
 
----
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
+
+---
 <h3 align="left">4 Major Categories of Technologies I've Explored, Coded, or Utilized 😎</h3>
 
 <h4 align="left">1) Programming Languages: </h4>
@@ -69,10 +70,6 @@
 <br>
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
-<br>
-
----
 <br>
 # 🎮 My Asus TUF Gaming F15 Gaming Laptop Specifications
 
@@ -97,4 +94,6 @@
 - **Display:** Asus Laptop Screen 15.6" 144Hz (1920x1080)
 - **Monitor:** HP M24D FHD Monitor 23.8" 75Hz (1920x1080)
 
-
+---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslimfc" alt="thomaslimfc" /></a> </p>
+<br>
