@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/followers/thomaslimfc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
-<br>
+<br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
 
