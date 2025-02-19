@@ -11,11 +11,11 @@
 
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/limfangchern)
 
+<br>
 <a href="https://www.github.com/wj123567" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/thomaslimfc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
-
-<br><br>
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
 
