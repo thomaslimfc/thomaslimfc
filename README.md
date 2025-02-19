@@ -3,11 +3,9 @@
 <!-- <h4 align="center">A future software architect.</h4> -->
 <br>
 
-<center>
-    <a href="https://www.github.com/wj123567" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/github/followers/thomaslimfc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-    </a>
-</center>
+<a href="https://www.github.com/wj123567" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/thomaslimfc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
 - 🌱 TARUMT University Student - **Bachelor of Software Engineering (Honours)**
 
