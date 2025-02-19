@@ -3,10 +3,6 @@
 <!-- <h4 align="center">A future software architect.</h4> -->
 <br>
 
-<a href="https://www.github.com/wj123567" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/thomaslimfc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-
 - 🌱 TARUMT University Student - **Bachelor of Software Engineering (Honours)**
 
 - 🛒 e-Entrepreneur - [TCT Thomas Comonics Technology](https://thomascomonicstechnology.github.io/tct/)
@@ -14,6 +10,10 @@
 - 🎬 YouTube Content Creator - [CTS Computer Technology Solutions](https://youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA)
 
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/limfangchern)
+
+<a href="https://www.github.com/wj123567" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/thomaslimfc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
 <br>
 
