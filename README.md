@@ -3,6 +3,9 @@
 <!-- <h4 align="center">A future software architect.</h4> -->
 <br>
 
+<a href="https://www.github.com/wj123567" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/thomaslimfc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 - 🌱 TARUMT University Student - **Bachelor of Software Engineering (Honours)**
 
 - 🛒 e-Entrepreneur - [TCT Thomas Comonics Technology](https://thomascomonicstechnology.github.io/tct/)
@@ -14,8 +17,6 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslimfc&show_icons=true&locale=en&layout=compact" alt="thomaslimfc" /></p>
-<a href="https://www.github.com/wj123567" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/thomaslimfc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ---
 <h3 align="left">4 Major Categories of Technologies I've Explored, Coded, or Utilized 😎</h3>
