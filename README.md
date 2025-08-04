@@ -5,7 +5,7 @@
 
 - 🌱 TARUMT University Student - **Bachelor of Software Engineering (Honours)**
 
-- 🛒 e-Entrepreneur - [TCT Thomas Comonics Technology](https://thomascomonicstechnology.github.io/tct/)
+- 🛒 e-Entrepreneur - [TCT](https://thomascomonicstechnology.github.io/tct/)
     
 - 🎬 YouTube Content Creator - [CTS Computer Technology Solutions](https://youtube.com/channel/UCJQqFq3O7H-8kuJZMd0k3KA)
 
