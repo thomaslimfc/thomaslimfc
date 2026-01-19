@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Thomas Fang-chern Lim</h1>
-<h3 align="center">A passionate software engineering intern from Penang, Malaysia.</h3>
+<h3 align="center">A passionate software engineer from Penang, Malaysia.</h3>
 <!-- <h4 align="center">A future software architect.</h4> -->
 <br>
 
