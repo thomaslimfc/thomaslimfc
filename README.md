@@ -59,8 +59,8 @@
     <a target="_blank" rel="noreferrer"><img src="images/windows.png" alt="Windows" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/linux.png" alt="Linux" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/kaliLinux.png" alt="Kali Linux" width="40"/></a>
-<!--     <a target="_blank" rel="noreferrer"><img src="images/parrotSecurity.png" alt="Parrot Security" width="40"/></a> -->
     <a target="_blank" rel="noreferrer"><img src="images/oracleVirtualBox.png" alt="Oracle VirtualBox" width="40"/></a>
+<!--     <a target="_blank" rel="noreferrer"><img src="images/parrotSecurity.png" alt="Parrot Security" width="40"/></a> -->
 </p>
 
 <h4 align="left">4) Others: </h4>
