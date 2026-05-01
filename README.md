@@ -23,7 +23,6 @@
 <h3 align="left">4 Major Categories of Technologies I've Explored, Coded, or Utilized 😎</h3>
 
 <h4 align="left">1) Programming Languages: </h4>
-<p>My favourite font is Cascadia Code</p>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="images/python.png" alt="Python" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/java.png" alt="Java" width="40"/></a>
@@ -54,6 +53,7 @@
     <a target="_blank" rel="noreferrer"><img src="images/aspNet.png" alt="ASP.Net" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/github.png" alt="GitHub" width="40"/></a>
 </p>
+<p>My most favourite font is <b>Cascadia Code</b>.</p>
 
 <h4 align="left">3) Operating System (OS): </h4>
 <p align="left">
