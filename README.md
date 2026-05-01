@@ -53,7 +53,7 @@
     <a target="_blank" rel="noreferrer"><img src="images/aspNet.png" alt="ASP.Net" width="40"/></a>
     <a target="_blank" rel="noreferrer"><img src="images/github.png" alt="GitHub" width="40"/></a>
 </p>
-<p>My most favourite font is <b>Cascadia Code</b>.</p>
+<p>My most favourite font is <b>Cascadia Code</b>. 😍😍</p>
 
 <h4 align="left">3) Operating System (OS): </h4>
 <p align="left">
